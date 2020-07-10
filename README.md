@@ -18,4 +18,4 @@ Boilerplate Node.js app with Expresss and directory structure ready to go.
 
 ## Author
 
-[Jordan Lamoreaux] (https://jlamoreaux.com)
+[Jordan Lamoreaux](https://jlamoreaux.com)
